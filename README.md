@@ -31,6 +31,11 @@
 - ↳ Alignment methods for LLMs.
 - ↳ Focuses on instruction fine-tuning and human feedback alignment.
 
+
+<img width="930" height="1240" alt="image" src="https://github.com/user-attachments/assets/a82bf910-36bf-4a42-8fdd-c5bbe6947949" />
+<img width="898" height="1276" alt="image" src="https://github.com/user-attachments/assets/be8f677c-4524-4cfa-9c47-e17cd4e6a8aa" />
+<img width="834" height="264" alt="image" src="https://github.com/user-attachments/assets/5deabd68-7b69-48e1-96da-6a19f7493f40" />
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
