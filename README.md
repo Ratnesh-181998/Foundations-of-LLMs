@@ -38,7 +38,7 @@
 
 ---
 
-# [Building LLMs for Production]()
+# [Building LLMs for Production](https://github.com/Ratnesh-181998/Foundations-of-LLMs/blob/main/Building%20LLMs%20for%20Production.pdf)
 
 - It is a practical guide focused on taking large language models from experimentation to real-world deployment. It covers everything from prompting and RAG to agents, fine-tuning and scaling challenges in production systems.
 
