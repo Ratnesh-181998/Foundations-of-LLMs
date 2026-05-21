@@ -38,6 +38,28 @@
 
 ---
 
+# [Building LLMs for Production]()
+
+- It is a practical guide focused on taking large language models from experimentation to real-world deployment. It covers everything from prompting and RAG to agents, fine-tuning and scaling challenges in production systems.
+
+- It covers:
+
+- Chapter I: Introduction to LLMs
+- Chapter II: LLM Architectures and Landscape
+- Chapter III: LLMs in Practice
+- Chapter IV: Introduction to Prompting
+- Chapter V: Retrieval-Augmented Generation
+- Chapter VI: Introduction to LangChain & LlamaIndex
+- Chapter VII: Prompting with LangChain
+- Chapter VIII: Indexes, Retrievers, and Data Preparation
+- Chapter IX: Advanced RAG
+- Chapter X: Agents
+- Chapter XI: Fine-Tuning
+- Chapter XII: Deployment and Optimization
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
