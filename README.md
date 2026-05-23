@@ -60,6 +60,121 @@
 
 ---
 
+# [Build LLMs from Scratch]( https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
+- Found this gem from Vizuara, a 43-lecture series that actually delivers on its promise: building Large Language Models from the ground up.
+
+## What's inside:
+- → Transformer architecture
+- → GPT internals
+- → Tokenization (BPE)
+- → Attention mechanisms
+- → Complete Python implementations
+
+- Perfect for ML engineers and developers who want to understand what's really happening under the hood of ChatGPT, Claude, and similar models
+- https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu
+
+## Building LLMs from Scratch — Complete Lecture List (1–43)
+
+1. Lecture 1: Building LLMs from scratch: Series introduction
+
+2. Lecture 2: Large Language Models (LLM) Basics
+
+3. Lecture 3: Pretraining LLMs vs Finetuning LLMs
+
+4. Lecture 4: What are transformers?
+
+5. Lecture 5: How does GPT-3 really work?
+
+6. Lecture 6: Stages of building an LLM from Scratch
+
+7. Lecture 7: Code an LLM Tokenizer from Scratch in Python
+
+8. Lecture 8: The GPT Tokenizer: Byte Pair Encoding
+
+9. Lecture 9: Creating Input-Target data pairs using Python DataLoader
+
+10. Lecture 10: What are token embeddings?
+
+11. Lecture 11: The importance of Positional Embeddings
+
+12. Lecture 12: The entire Data Preprocessing Pipeline of Large Language Models (LLMs)
+
+13. Lecture 13: Introduction to the Attention Mechanism in Large Language Models (LLMs)
+
+14. Lecture 14: Simplified Attention Mechanism - Coded from scratch in Python | No trainable weights
+
+15. Lecture 15: Coding the self attention mechanism with key, query and value matrices
+
+16. Lecture 16: Causal Self Attention Mechanism | Coded from scratch in Python
+
+17. Lecture 17: Multi Head Attention Part 1 - Basics and Python code
+
+18. Lecture 18: Multi Head Attention Part 2 - Entire mathematics explained
+
+19. Lecture 19: Birds Eye View of the LLM Architecture
+
+20. Lecture 20: Layer Normalization in the LLM Architecture
+
+21. Lecture 21: GELU Activation Function in the LLM Architecture
+
+22. Lecture 22: Shortcut connections in the LLM Architecture
+
+23. Lecture 23: Coding the entire LLM Transformer Block
+
+24. Lecture 24: Coding the 124 million parameter GPT-2 model
+
+25. Lecture 25: Coding GPT-2 to predict the next token
+
+26. Lecture 26: Measuring the LLM loss function
+
+27. Lecture 27: Evaluating LLM performance on real dataset | Hands on project | Book data
+
+28. Lecture 28: Coding the entire LLM Pre-training Loop
+
+29. Lecture 29: Temperature Scaling in Large Language Models (LLMs)
+
+30. Lecture 30: Top-k sampling in Large Language Models
+
+31. Lecture 31: Saving and loading LLM model weights using PyTorch
+
+32. Lecture 32: Loading pre-trained weights from OpenAI GPT-2
+
+33. Lecture 33: Introduction to LLM Finetuning | Python Coding with hands-on-example
+
+34. Lecture 34: Dataloaders in LLM Classification Finetuning | Python Coding | Hands on LLM project
+
+35. Lecture 35: Coding the model architecture for LLM classification fine-tuning
+
+36. Lecture 36: Coding a fine-tuned LLM spam classification model | From Scratch
+
+37. Lecture 37: Introduction to LLM Instruction Fine-tuning | Loading Dataset | Alpaca Prompt format
+
+38. Lecture 38: Data Batching in LLM instruction fine-tuning | Hands on project | Live Python coding
+
+39. Lecture 39: Dataloaders in Instruction Fine-tuning
+
+40. Lecture 40: Instruction fine-tuning: Loading pre-trained LLM weights
+
+41. Lecture 41: LLM fine-tuning training loop | Coded from scratch
+
+42. Lecture 42: Evaluating fine-tuned LLM using Ollama
+
+43. Lecture 43: Build LLMs from scratch 20 minutes summary
+
+
+<img width="2259" height="1305" alt="image" src="https://github.com/user-attachments/assets/a409cad5-342d-43a5-9f7c-3b277c1248a1" />
+<img width="2256" height="1290" alt="image" src="https://github.com/user-attachments/assets/8c056963-091e-4fbe-97f2-36349bb9febb" />
+<img width="2270" height="1276" alt="image" src="https://github.com/user-attachments/assets/eb052283-33d5-412a-88c1-88fae56cd6ff" />
+<img width="2349" height="1277" alt="image" src="https://github.com/user-attachments/assets/654262d3-3dd8-48aa-ae0c-c55b7a2c9d29" />
+<img width="2278" height="1257" alt="image" src="https://github.com/user-attachments/assets/12cd55d0-cbb5-4859-abb1-c47f80a5ec4d" />
+<img width="2318" height="1287" alt="image" src="https://github.com/user-attachments/assets/3d2109d7-cea5-49c0-8845-0ac73e9202eb" />
+<img width="2285" height="1277" alt="image" src="https://github.com/user-attachments/assets/416a17fa-6323-4070-bb03-26f9cbacb525" />
+<img width="2373" height="1292" alt="image" src="https://github.com/user-attachments/assets/59412daf-e102-4085-b29b-6d38b4946c25" />
+<img width="2353" height="1106" alt="image" src="https://github.com/user-attachments/assets/6e15608c-1c2d-404e-900a-725b25271be0" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
