@@ -61,7 +61,29 @@
 
 # [Stanford’s LLM lecture series](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
+## Stanford CME295: Transformers & Large Language Models — Lecture-wise Headings
+
+1. Lecture 1: Transformer
+
+2. Lecture 2: Transformer-Based Models & Tricks
+
+3. Lecture 3: Transformers & Large Language Models
+
+4. Lecture 4: LLM Training
+
+5. Lecture 5: LLM tuning
+
+6. Lecture 6: LLM Reasoning
+
+7. Lecture 7: Agentic LLMs
+
+8. Lecture 8: LLM Evaluation
+
+9. Lecture 9: Recap & Current Trends
+
 <img width="662" height="832" alt="image" src="https://github.com/user-attachments/assets/1d00a501-b2d3-4151-a4eb-3328e2f92920" />
+<img width="2260" height="1306" alt="image" src="https://github.com/user-attachments/assets/ca04dfc5-1961-41f5-a5dc-6d329234a757" />
+<img width="2331" height="1210" alt="image" src="https://github.com/user-attachments/assets/93c0495c-78f4-437d-bd5d-f0242aa48d55" />
 
 
 
@@ -179,6 +201,101 @@
 <img width="2373" height="1292" alt="image" src="https://github.com/user-attachments/assets/59412daf-e102-4085-b29b-6d38b4946c25" />
 <img width="2353" height="1106" alt="image" src="https://github.com/user-attachments/assets/6e15608c-1c2d-404e-900a-725b25271be0" />
 
+
+---
+
+# Master LLM Fine-Tuning
+
+<img width="809" height="994" alt="image" src="https://github.com/user-attachments/assets/2c39b96d-9f3b-4ee1-ac13-edf212ea8a85" />
+<img width="815" height="1014" alt="image" src="https://github.com/user-attachments/assets/a08972b2-a0aa-4c37-8cd0-7b91e0aa83a4" />
+<img width="818" height="968" alt="image" src="https://github.com/user-attachments/assets/cfab39fa-40d4-491e-ad23-5a881b7b6e95" />
+<img width="801" height="963" alt="image" src="https://github.com/user-attachments/assets/19f96cd3-2ded-4341-8e53-ca28913eb6b9" />
+<img width="807" height="948" alt="image" src="https://github.com/user-attachments/assets/dc12f52b-3f27-428e-9a93-820ad0e0eed8" />
+<img width="798" height="1010" alt="image" src="https://github.com/user-attachments/assets/3c7af5fd-5abb-458e-8f91-3cd194937746" />
+<img width="819" height="964" alt="image" src="https://github.com/user-attachments/assets/a51b2735-e381-4645-8af4-12e3d5ea6b3d" />
+<img width="819" height="998" alt="image" src="https://github.com/user-attachments/assets/d87b7e89-6d5c-491d-a08d-47137eb9a307" />
+<img width="801" height="951" alt="image" src="https://github.com/user-attachments/assets/b8a97154-57cd-4c44-8224-1515b2dcab36" />
+<img width="820" height="992" alt="image" src="https://github.com/user-attachments/assets/25580b32-b16c-4f62-9146-be8e3cc0f8cf" />
+<img width="806" height="997" alt="image" src="https://github.com/user-attachments/assets/b36a55aa-0398-4d09-baf3-fb365913c81d" />
+<img width="811" height="989" alt="image" src="https://github.com/user-attachments/assets/9d9e6ba8-359f-4888-b305-6e13ff568064" />
+<img width="824" height="983" alt="image" src="https://github.com/user-attachments/assets/a577dcb7-fb03-4b76-b11e-0b5fdc691549" />
+<img width="818" height="978" alt="image" src="https://github.com/user-attachments/assets/39d013c1-254c-42a7-928f-45b530cd2bb2" />
+
+
+---
+
+# LLM fine-tuning techniques I'd learn if I were to customize them:
+- 1. LoRA
+- 2. QLoRA
+- 3. Prefix Tuning
+- 4. Adapter Tuning
+- 5. Instruction Tuning
+- 6. P-Tuning
+- 7. BitFit
+= 8. Soft Prompts
+- 9. RLHF
+- 10. RLAIF
+- 11. DPO (Direct Preference Optimization)
+- 12. GRPO (Group Relative Policy Optimization)
+- 13. RLAIF (RL with AI Feedback)
+- 14. Multi-Task Fine-Tuning
+- 15. Federated Fine-Tuning
+      
+<img width="776" height="695" alt="image" src="https://github.com/user-attachments/assets/708a5399-3dfc-4113-ac5b-058223cd830a" />
+
+---
+
+# LLMs hallucinate
+
+<img width="506" height="749" alt="image" src="https://github.com/user-attachments/assets/8872fda0-da57-40e7-a00a-e61e0ec774f7" />
+<img width="497" height="425" alt="image" src="https://github.com/user-attachments/assets/2ee7af18-690b-4dbe-9d4d-16c8f65bb972" />
+
+- https://arxiv.org/pdf/2410.14262
+- https://arxiv.org/abs/2509.18970
+- https://arxiv.org/abs/2508.01781
+- https://arxiv.org/abs/2409.05746
+- https://www.mdpi.com/2227-7390/13/5/856
+- https://arxiv.org/abs/2408.15533
+- https://arxiv.org/abs/2508.03553
+- https://openreview.net/forum?id=ztzZDzgfrh
+- https://arxiv.org/abs/2402.10612
+- https://arxiv.org/abs/2312.10997
+- https://arxiv.org/abs/2506.00054
+- https://arxiv.org/abs/2507.15903
+- https://arxiv.org/abs/2501.13946
+- https://www.mdpi.com/2078-2489/16/7/517
+- https://arxiv.org/abs/2309.11495
+- https://arxiv.org/abs/2203.11171
+- https://arxiv.org/abs/2504.09440
+- https://arxiv.org/abs/2510.11529
+- https://arxiv.org/abs/2506.17088
+- https://arxiv.org/abs/2409.11283
+- https://arxiv.org/abs/2507.22915
+- https://www.preprints.org/manuscript/202505.0456
+
+---
+
+# Fine-Tuning LLMs Without the Confusion
+
+### How SFT, RLHF, LoRA, QLoRA, and instruction tuning actually fit together LLM
+
+<img width="309" height="581" alt="image" src="https://github.com/user-attachments/assets/54b4eaa1-2fa0-488e-8605-00c51ea47eed" />
+<img width="787" height="496" alt="image" src="https://github.com/user-attachments/assets/2a298d8a-67f7-4e31-a3c2-300b29dd7cf0" />
+<img width="532" height="560" alt="image" src="https://github.com/user-attachments/assets/3100f668-0dd6-4aa4-a958-85195e5c6e74" />
+<img width="530" height="679" alt="image" src="https://github.com/user-attachments/assets/001deba1-83ca-4c8f-9195-a312f551a970" />
+<img width="521" height="613" alt="image" src="https://github.com/user-attachments/assets/e21b9fc2-de41-45ef-bd37-755a23713489" />
+<img width="526" height="568" alt="image" src="https://github.com/user-attachments/assets/02f41f50-6679-469c-bfc5-5a5ad409c216" />
+<img width="509" height="634" alt="image" src="https://github.com/user-attachments/assets/6ee21d91-3a53-4b12-a4a5-25a518e4ea8c" />
+<img width="508" height="551" alt="image" src="https://github.com/user-attachments/assets/315db63d-de23-40d7-bad1-f10e590cfcd1" />
+<img width="518" height="617" alt="image" src="https://github.com/user-attachments/assets/ea94b763-333c-4cc1-b6fc-8cff588cd2e0" />
+<img width="525" height="520" alt="image" src="https://github.com/user-attachments/assets/3f0ce8a9-68b4-497c-b20f-79acbd53b106" />
+<img width="542" height="514" alt="image" src="https://github.com/user-attachments/assets/99787f8c-a555-4f0c-865c-a06ec17a598b" />
+<img width="548" height="471" alt="image" src="https://github.com/user-attachments/assets/7889e701-bf97-4fb3-a31a-97739b9a030b" />
+<img width="526" height="558" alt="image" src="https://github.com/user-attachments/assets/307a4794-2d91-46da-9c6b-73c76c92c9ce" />
+<img width="493" height="379" alt="image" src="https://github.com/user-attachments/assets/4cda546a-043d-4001-ab0d-b3f55aaf2b07" />
+<img width="538" height="555" alt="image" src="https://github.com/user-attachments/assets/2367c891-6616-4b92-b374-32b9f3d3ff74" />
+<img width="501" height="397" alt="image" src="https://github.com/user-attachments/assets/6072c6dc-9c31-43bf-9009-71587636f935" />
+<img width="529" height="520" alt="image" src="https://github.com/user-attachments/assets/9ba8fc10-37db-4a52-8f58-366c4c6145d5" />
 
 ---
 
