@@ -57,6 +57,13 @@
 - Chapter XI: Fine-Tuning
 - Chapter XII: Deployment and Optimization
 
+---
+
+# [Stanford’s LLM lecture series](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
+
+<img width="662" height="832" alt="image" src="https://github.com/user-attachments/assets/1d00a501-b2d3-4151-a4eb-3328e2f92920" />
+
+
 
 ---
 
