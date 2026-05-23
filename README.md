@@ -299,6 +299,14 @@
 
 ---
 
+#  LLM Architectures 
+
+<img width="822" height="926" alt="image" src="https://github.com/user-attachments/assets/8f62ec6a-a18a-466c-9c3f-da99e49e852f" />
+
+<img width="1308" height="672" alt="image" src="https://github.com/user-attachments/assets/9d3e9af4-3d36-4b6d-bc6b-179a374953ea" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
