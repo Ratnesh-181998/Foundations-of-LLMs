@@ -201,6 +201,29 @@
 <img width="2373" height="1292" alt="image" src="https://github.com/user-attachments/assets/59412daf-e102-4085-b29b-6d38b4946c25" />
 <img width="2353" height="1106" alt="image" src="https://github.com/user-attachments/assets/6e15608c-1c2d-404e-900a-725b25271be0" />
 
+---
+
+# [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
+## Table of Contents
+
+- We advise to run all examples through Google Colab for the easiest setup. Google Colab allows you to use a T4 GPU with 16GB of VRAM for free. All examples were mainly built and tested using Google Colab, so it should be the most stable platform. However, any other cloud provider should work.
+
+| Chapter | Notebook |
+|----------|------------|
+| Chapter 1: Introduction to Language Models | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 2: Tokens and Embeddings | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 3: Looking Inside Transformer LLMs | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 4: Text Classification | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 5: Text Clustering and Topic Modeling | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 6: Prompt Engineering | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 7: Advanced Text Generation Techniques and Tools | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 8: Semantic Search and Retrieval-Augmented Generation | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 9: Multimodal Large Language Models | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 10: Creating Text Embedding Models | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 11: Fine-tuning Representation Models for Classification | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Chapter 12: Fine-tuning Generation Models | <a href="#"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
 
 ---
 
